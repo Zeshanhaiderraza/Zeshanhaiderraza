@@ -8,10 +8,10 @@
 <h3 align="center">🧬 Bridging Biology and AI | Machine Learning in Genomics | Cancer Biomarker Discovery</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Zeshanhaiderraz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align="right" alt="DNA Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="DNA Coding" margin-top="100" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ## 🔬 About Me
 
