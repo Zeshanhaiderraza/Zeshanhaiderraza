@@ -75,31 +75,31 @@ research_interests = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeshanhaiderraz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeshanhaiderraz&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeshanhaiderraz&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeshanhaiderraz&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zeshanhaiderraz&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ## 📚 Featured Projects
 
 <div align="center">
 
-[![Cancer Biomarker Detection](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=cancer-biomarker-detection&theme=radical)](https://github.com/YOUR-USERNAME/cancer-biomarker-detection)
-[![Myostatin Gene Analysis](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=myostatin-gene-analysis&theme=radical)](https://github.com/YOUR-USERNAME/myostatin-gene-analysis)
-[![COVID-19 Genomics](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=covid19-genomic-analysis&theme=radical)](https://github.com/YOUR-USERNAME/covid19-genomic-analysis)
-[![Bioinformatics Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=bioinformatics-toolkit&theme=radical)](https://github.com/YOUR-USERNAME/bioinformatics-toolkit)
+[![Cancer Biomarker Detection](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraz&repo=cancer-biomarker-detection&theme=radical)](https://github.com/Zeshanhaiderraz/cancer-biomarker-detection)
+[![Myostatin Gene Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraz&repo=myostatin-gene-analysis&theme=radical)](https://github.com/Zeshanhaiderraz/myostatin-gene-analysis)
+[![COVID-19 Genomics](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraz&repo=covid19-genomic-analysis&theme=radical)](https://github.com/Zeshanhaiderraz/covid19-genomic-analysis)
+[![Bioinformatics Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraz&repo=bioinformatics-toolkit&theme=radical)](https://github.com/Zeshanhaiderraz/bioinformatics-toolkit)
 
 </div>
 
