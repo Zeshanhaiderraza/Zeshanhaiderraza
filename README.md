@@ -96,11 +96,7 @@ research_interests = {
 
 <div align="center">
 
-[![Cancer Biomarker Detection](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraza&repo=cancer-biomarker-detection&theme=radical)](https://github.com/Zeshanhaiderraza/cancer-biomarker-detection)
-[![Myostatin Gene Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraza&repo=myostatin-gene-analysis&theme=radical)](https://github.com/Zeshanhaiderraza/myostatin-gene-analysis)
-[![COVID-19 Genomics](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraza&repo=covid19-genomic-analysis&theme=radical)](https://github.com/Zeshanhaiderraza/covid19-genomic-analysis)
-[![Bioinformatics Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraza&repo=bioinformatics-toolkit&theme=radical)](https://github.com/Zeshanhaiderraza/bioinformatics-toolkit)
-
+[![Gene Expression Cancer Detection](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraza&repo=gene-expression-cancer-detection&theme=radical)](https://github.com/Zeshanhaiderraza/gene-expression-cancer-detection)
 </div>
 
 ## 📈 Current Focus
