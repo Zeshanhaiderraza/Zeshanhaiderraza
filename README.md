@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Zeshanhaiderraz">
+  <a href="https://github.com/Zeshanhaiderraza">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=BIOINFORMATICIAN&animation=fadeIn&fontColor=ffffff&fontSize=60" alt="Bioinformatician Header">
   </a>
 </p>
@@ -8,7 +8,7 @@
 <h3 align="center">🧬 Bridging Biology and AI | Machine Learning in Genomics | Cancer Biomarker Discovery</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zeshanhaiderraz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Zeshanhaiderraza&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <img align="right" alt="DNA Coding" margin-top="100" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -75,31 +75,31 @@ research_interests = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeshanhaiderraz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeshanhaiderraz&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeshanhaiderraza&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeshanhaiderraza&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeshanhaiderraz&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeshanhaiderraza&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeshanhaiderraz&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeshanhaiderraza&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zeshanhaiderraz&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zeshanhaiderraza&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ## 📚 Featured Projects
 
 <div align="center">
 
-[![Cancer Biomarker Detection](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraz&repo=cancer-biomarker-detection&theme=radical)](https://github.com/Zeshanhaiderraz/cancer-biomarker-detection)
-[![Myostatin Gene Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraz&repo=myostatin-gene-analysis&theme=radical)](https://github.com/Zeshanhaiderraz/myostatin-gene-analysis)
-[![COVID-19 Genomics](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraz&repo=covid19-genomic-analysis&theme=radical)](https://github.com/Zeshanhaiderraz/covid19-genomic-analysis)
-[![Bioinformatics Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraz&repo=bioinformatics-toolkit&theme=radical)](https://github.com/Zeshanhaiderraz/bioinformatics-toolkit)
+[![Cancer Biomarker Detection](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraza&repo=cancer-biomarker-detection&theme=radical)](https://github.com/Zeshanhaiderraza/cancer-biomarker-detection)
+[![Myostatin Gene Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraza&repo=myostatin-gene-analysis&theme=radical)](https://github.com/Zeshanhaiderraza/myostatin-gene-analysis)
+[![COVID-19 Genomics](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraza&repo=covid19-genomic-analysis&theme=radical)](https://github.com/Zeshanhaiderraza/covid19-genomic-analysis)
+[![Bioinformatics Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Zeshanhaiderraza&repo=bioinformatics-toolkit&theme=radical)](https://github.com/Zeshanhaiderraza/bioinformatics-toolkit)
 
 </div>
 
